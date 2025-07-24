@@ -1,7 +1,6 @@
 # 💡 AI-Powered Dynamic Pricing Engine
 
-**Live Demo:** http://localhost:8501/
-
+**Live Demo:** http://10.41.209.102:8501
 ## 🎯 Problem Statement
 
 In e-commerce and retail, setting the right price for a product is a critical challenge. A price too high deters customers, while a price too low reduces potential revenue. This project demonstrates an end-to-end solution that uses machine learning to recommend the optimal price for a product on a given day to maximize revenue.
@@ -24,8 +23,8 @@ In e-commerce and retail, setting the right price for a product is a critical ch
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YourUsername/Your-Repo-Name.git
-    cd Your-Repo-Name
+    git clone https://github.com/hemanthDA/Dynamic-Price-Engine.git
+    cd Dynamic-Price-Engine
     ```
 2.  **Install dependencies:**
     ```bash
@@ -40,6 +39,7 @@ In e-commerce and retail, setting the right price for a product is a critical ch
     streamlit run app/main.py
     ```
 
-## 🏗️ Project Architecture
+workflow diagarm 
+<img width="1024" height="1024" alt="82af35c8-f070-48f2-b1af-4fa55ed57985" src="https://github.com/user-attachments/assets/30b46491-8894-4396-b83b-8b80127e35e3" />
 
-(Optional but highly recommended: Create a simple diagram showing Data -> Model -> UI and add it here.)
+
